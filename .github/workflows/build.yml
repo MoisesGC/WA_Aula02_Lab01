@@ -1,4 +1,4 @@
-name: Simple Local
+name: Simple Local Flow
 on: push
 jobs:
    build-node:
