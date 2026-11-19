@@ -1,4 +1,4 @@
-console.log("Exemplo Basico WebAcademy T7");
+console.log("Exemplo Basico WebAcademy T8");
 
 
 var moment = require('moment');
